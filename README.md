@@ -1,5 +1,5 @@
 # Soji.AI-Engineer-test
-result of my take home assignment
+result of my take home assignment.
 
 FURTHER EXPLANATION
 -The json is indeed to simulate database interactions, the select, insert in SQL DB. by saving and loading json i intend to simulate the database interaction along with following the requirements.
