@@ -1,0 +1,72 @@
+[
+    {
+        "Aircraft Model": "MD-11",
+        "MSN": 48123,
+        "Modifications": "None",
+        "2025-0254": "Not Applicable",
+        "2025-23-53": "No"
+    },
+    {
+        "Aircraft Model": "DC-10-30F",
+        "MSN": 47890,
+        "Modifications": "None",
+        "2025-0254": "Not Applicable",
+        "2025-23-53": "Not Applicable"
+    },
+    {
+        "Aircraft Model": "Boeing 737-800",
+        "MSN": 30123,
+        "Modifications": "None",
+        "2025-0254": "Not Applicable",
+        "2025-23-53": "Not Applicable"
+    },
+    {
+        "Aircraft Model": "A320-214",
+        "MSN": 5234,
+        "Modifications": "None",
+        "2025-0254": "Not Applicable",
+        "2025-23-53": "Not Applicable"
+    },
+    {
+        "Aircraft Model": "A320-232",
+        "MSN": 6789,
+        "Modifications": "mod 24591 (production)",
+        "2025-0254": "Not Applicable",
+        "2025-23-53": "Not Applicable"
+    },
+    {
+        "Aircraft Model": "A320-214",
+        "MSN": 7456,
+        "Modifications": "SB A320-57-1089 Rev 04",
+        "2025-0254": "Not Applicable",
+        "2025-23-53": "Not Applicable"
+    },
+    {
+        "Aircraft Model": "A321-111",
+        "MSN": 8123,
+        "Modifications": "None",
+        "2025-0254": "Not Applicable",
+        "2025-23-53": "Not Applicable"
+    },
+    {
+        "Aircraft Model": "A321-112",
+        "MSN": 364,
+        "Modifications": "mod 24977 (production)",
+        "2025-0254": "Not Applicable",
+        "2025-23-53": "Not Applicable"
+    },
+    {
+        "Aircraft Model": "A319-100",
+        "MSN": 9234,
+        "Modifications": "None",
+        "2025-0254": "Not Applicable",
+        "2025-23-53": "Not Applicable"
+    },
+    {
+        "Aircraft Model": "MD-10-10F",
+        "MSN": 46234,
+        "Modifications": "None",
+        "2025-0254": "Not Applicable",
+        "2025-23-53": "No"
+    }
+]
