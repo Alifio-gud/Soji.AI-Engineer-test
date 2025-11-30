@@ -1,4 +1,5 @@
 # Soji.AI-Engineer-test
+'''
 result of my take home assignment.
 
 FURTHER EXPLANATION
@@ -9,3 +10,4 @@ FURTHER EXPLANATION
 -Asyncio is so the program works concurrently, saving time on waiting to time for program to do something. If we deploy in web service that counts compute time like Pythonanywhere this can save our billing seconds.
 -Results can be refined, the functions are defined and can be modified as each work step have it's own function, for example the process_folder_pdfs function can be modified to use OCR model or VLLM. this would also put dubugging easier as we can put logging in each function to check for error more directly.
 -Thank you for giving me the oppoturnity, if i am accepted i will have to learn ruling and law of aviation to make robust software to hasten aircraft check time while not forgetting safety and i request your understanding and guidance on this matter.
+'''
